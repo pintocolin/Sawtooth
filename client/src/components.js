@@ -3,6 +3,7 @@
 /* 
 This code was written by Zac Delventhal @delventhalz.
 Original source code can be found here :https://github.com/delventhalz/transfer-chain-js/blob/master/client/src/components.js
+
  */
 
 'use strict'
